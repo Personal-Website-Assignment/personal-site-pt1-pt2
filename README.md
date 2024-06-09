@@ -1,2 +1,2 @@
 # Career-Simulation
-My personal website assignment Part 1 
+My personal website with additional CSS styling and layout. A contact form has been added with a success page. 
